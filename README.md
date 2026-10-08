@@ -2,19 +2,42 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+# Hi 🖐 I'm Amirreza
+
+I'm a **aspiring Data Scientist and Frontend Developer** passionate about building interactive web applications and turning data into meaningful insights.
+
+I work primarily with **Vue.js and Nuxt.js**, while expanding my skills in **Python, Data Science, Statistics, and Machine Learning**.
 
 ###
 
-<p align="left">Hi🖐 I'm Amirreza. I specialize in building interactive, performant web applications using modern frontend frameworks. I'm also exploring data science to bring smarter insights into user experiences.</p>
+### 👨‍💻 About me
 
 ###
 
-<h3 align="left">👨‍💻 About me</h3>
+💻 Building modern, interactive web applications with **Vue.js and Nuxt.js**
+⚙️ Interested in **SSR, performance optimization, UI/UX, and scalable frontend architecture**
+📊 Studying **Data Science, Statistics, and Machine Learning with Python**
+🤖 Building data-driven projects to strengthen my understanding of **ML and real-world data analysis**
+🧠 Enjoy turning complex problems into **simple, practical, and elegant solutions**
+📈 Working with EDA, data visualization, and statistical analysis
 
 ###
 
-<p align="left">💻 Currently working with Nuxt.js and Vue.js to build dynamic web interfaces<br>⚙️ Passionate about SSR optimization, UI/UX animation, and scalable frontend architecture<br>📊 Exploring data science and machine learning with Python<br>🧠 Love turning user-centric ideas into elegant, responsive interfaces</p>
+### 🎯 Current Focus
+
+**Data Science → Machine Learning → Real-world Projects**
+
+Currently working on strengthening my foundations in:
+
+* Python for Data Science
+* Exploratory Data Analysis (EDA)
+* Statistics & Probability
+* SQL & Data Analysis
+* Machine Learning
+* Data Visualization
+* Real-world Data Science Projects
+
+At the same time, I'm continuing to build and improve my skills in modern frontend development.
 
 ###
 
@@ -23,6 +46,14 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
@@ -48,14 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -86,14 +109,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stat :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amizaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amizaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Amizaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
