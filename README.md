@@ -109,12 +109,8 @@ At the same time, I'm continuing to build and improve my skills in modern fronte
 
 ###
 
-<h3 align="left">My Stat :</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amizaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amizaa&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=6&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
